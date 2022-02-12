@@ -13,7 +13,7 @@ This Repository contains my deep learning projects which were a part of the **De
 Inside the repo you'll find the following folders used to organize projects of DLND. Each folder contains the corresponding subfolders and files of that project along with a `README.md` for more info and description about that particular project. 
 
 ```
-Deep-Learning Projects/
+Deep Learning Nanodegree Projects/
 └──├── Project 1 (Predicting Bike Sharing Data)
    ├── Project 2 (Dog Breed Classifier)
    ├── Project 3 (Generate TV Scripts)
