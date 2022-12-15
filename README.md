@@ -5,7 +5,7 @@
 [![Python](https://img.shields.io/badge/python-v3.5.5-306998)]()
 [![Tensorflow](https://img.shields.io/badge/tensorflow-v1.0.0-ff6f00)]()
 [![Keras](https://img.shields.io/badge/keras-v2.0.2-d10000)]()
-
+[![Pytorch](https://img.shields.io/badge/pytorch-v1.7.0-a19190)]()
 This Repository contains my deep learning projects which were a part of the **Deep Learning Foundation Nanodegree Program (DLND)** by Udacity. The main concepts used were Neural Networks, Convolutional Neural Networks (CNNs), Recurrent Neural Network (RNNs), and Generative Adversarial Network (GANs).
 
 ## Repo
